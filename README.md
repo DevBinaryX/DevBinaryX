@@ -1,4 +1,9 @@
-[![DevBinaryX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBinaryX)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBinaryX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,vercel,nodejs)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+<h3 align="center">A self-taught 15 years old developer from Malaysia</h3>
+
+- 🔭 I’m currently working on [BXClient](https://github.com/DevBinaryX/BXClient), [BXClient-Android](https://github.com/DevBinaryX/BXClient-Android) and more
+
+- 🌱 I’m currently learning **Java, Kotlin and C++**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devbinaryx&show_icons=true&theme=dracula&locale=en&layout=compact" alt="devbinaryx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devbinaryx&show_icons=true&theme=dracula&locale=en" alt="devbinaryx" /></p>
